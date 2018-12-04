@@ -1,1 +1,1 @@
-echo "Hello From Git ": % date % : % time %"
+echo "Hello From Git ": %date% : %time%"
